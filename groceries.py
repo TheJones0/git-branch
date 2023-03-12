@@ -7,3 +7,4 @@ for k, v in new_dict.items():
     total += len(v)
 print(f"w sumie kupiłem {total} rzeczy")
 print("koniec zadania")
+print("Jednak nie koniec, bo zapomniałem o pozdrowieniach :D")
