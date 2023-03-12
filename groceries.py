@@ -6,4 +6,4 @@ for k, v in new_dict.items():
     print(f"ide do {k}, kupuje nastepujace rzeczy {', '.join(v)}")
     total += len(v)
 print(f"w sumie kupiłem {total} rzeczy")
-    
+print("koniec zadania")
